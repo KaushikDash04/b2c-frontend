@@ -1,0 +1,42 @@
+# Node.js dependencies
+/node_modules/
+
+# Bun cache and lockfile
+/.bun/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDE files
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage reports
+/coverage/
+
+# Next.js (if used)
+.next/
+
+# Dependency directories (if any)
+bower_components/
+
+# React Native
+.expo/
